@@ -58,7 +58,7 @@
 
    Now that you have finished planning the data story with your team, it’s time to create data visualizations. First, you consider electric vehicle sales worldwide in 2015 compared to 2020. You use a spreadsheet to create the following bar graph to compare the two values:
    <br/><br/>
-   ![A bar graph representing electric vehicle sales worldwide in 2015 compared to 2020. There are no x-axis or y-axis labels.](/images/Course-challenge/4oFa634oQM-BWut-KIDPyQ_49c2c590c36c4b9586b2a27ba159ea5c_unnamed.png)
+   ![A bar graph representing electric vehicle sales worldwide in 2015 compared to 2020. There are no x-axis or y-axis labels.](images/Course-challenge/4oFa634oQM-BWut-KIDPyQ_49c2c590c36c4b9586b2a27ba159ea5c_unnamed.png)
    <br/><br/>
    **You want to add labels so the graph is easier to interpret. Where on the graph do you label the time periods?**
    ```
@@ -71,7 +71,7 @@
    <br/><br/>
    You use Tableau to create the following draft of a visualization, which organizes the charging station data geographically:
    <br/><br/>
-   ![The visualization represents the United States map, each state is a different color. The text is blurry and colors are faded](/images/Course-challenge/W1HdjZJHQ1SR3Y2SR4NURQ_22bbeb251a9a40588ae04f002d81807a_pasted-image-0.png)
+   ![The visualization represents the United States map, each state is a different color. The text is blurry and colors are faded](images/Course-challenge/W1HdjZJHQ1SR3Y2SR4NURQ_22bbeb251a9a40588ae04f002d81807a_pasted-image-0.png)
    <br/><br/>
    After reviewing your draft, you realize that it could be improved. 
    <br/><br/>
@@ -97,7 +97,7 @@
    <br/><br/>
    You create the following pie chart:
    <br/><br/>
-   ![A circular chart of survey responses of miles per charge it would take surveyors to purchase an electric vehicle.](/images/Course-challenge/28eac38a-f267-49e8-8f3d-7fcc03073571image4.png)
+   ![A circular chart of survey responses of miles per charge it would take surveyors to purchase an electric vehicle.](images/Course-challenge/28eac38a-f267-49e8-8f3d-7fcc03073571image4.png)
    <br/><br/>
    **After reviewing your pie chart, you realize that it could be improved by resizing the segments. Resizing the segments in proportion to each segment's relative value enables you to visually show the different values.**
    ```
@@ -118,7 +118,7 @@
    <br/><br/>
    Next, you create the following slide that compares electric vehicle sales in 2015 and 2020:
    <br/><br/>
-   ![Slides with bar chart of vehicle sales from 2015 and 2022. There are long descriptions at bottom of slide and next to chart.](/images/Course-challenge/28eac38a-f267-49e8-8f3d-7fcc03073571image3.png)
+   ![Slides with bar chart of vehicle sales from 2015 and 2022. There are long descriptions at bottom of slide and next to chart.](images/Course-challenge/28eac38a-f267-49e8-8f3d-7fcc03073571image3.png)
    <br/><br/>
    **Alt-text:** Slideshow with bar chart of electric vehicle sales from 2015 and 2022. 2022 had higher sales. There are also multiple sentences at the bottom of the slide and another piece of descriptive text near the chart.
    <br/><br/>
@@ -132,7 +132,7 @@
      <br/><br/>
     You then create the following slide to demonstrate the challenges associated with battery range and charging stations:
     <br/><br/>
-    ![Slideshow of a pie chart and United States map to demonstrate the challenges of car battery range and charging stations.](/images/Course-challenge/28eac38a-f267-49e8-8f3d-7fcc03073571image5.jpg)
+    ![Slideshow of a pie chart and United States map to demonstrate the challenges of car battery range and charging stations.](images/Course-challenge/28eac38a-f267-49e8-8f3d-7fcc03073571image5.jpg)
     <br/><br/>
     **After reviewing your slide, you realize that the visual elements could be improved. Which of the following options would help you make the visual elements on this slide more effective? Select all that apply.**
     ```
